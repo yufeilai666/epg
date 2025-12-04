@@ -1256,22 +1256,23 @@ SBS fune
 SBS Fil
 SBS sport
 SBS Golf
-SBS Golf2
 SBS Biz
-SBS DMB
+SBS MTV
+SBS kizmom
 MBC
 MBC every1
 MBC drama
 MBC music
 MBC on
 MBC net
-喀秋莎
+MBC popt
 EBS1
 EBS2
 EBS CHILD
 EBS PLUS1
 EBS PLUS2
 EBS EDUCATION
+喀秋莎
 龙华电影台
 龙华洋片台
 公视金奖台
