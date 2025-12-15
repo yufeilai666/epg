@@ -1,5 +1,5 @@
-mbc 2
 mbc max
+mbc 2
 MBC Action
 亞洲衛視
 第一財經
