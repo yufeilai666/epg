@@ -6,7 +6,6 @@ MBC Action
 东方财经
 Dubai One
 HOY 国际财经台
-HOY TV
 HOY 资讯台
 HOY体育台
 HOY怪谈台
@@ -1756,6 +1755,7 @@ Astro Badminton
 Astro Badminton 2
 Astro Sports Plus
 Astro Premier League 4
+Astro Premier League 5
 W-Sport
 Golf Channel
 Premier Sports Rugby

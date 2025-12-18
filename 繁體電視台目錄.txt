@@ -6,7 +6,6 @@ MBC Action
 東方財經
 Dubai One
 HOY 國際財經臺
-HOY TV
 HOY 資訊臺
 HOY體育臺
 HOY怪談臺
@@ -1756,6 +1755,7 @@ Astro Badminton
 Astro Badminton 2
 Astro Sports Plus
 Astro Premier League 4
+Astro Premier League 5
 W-Sport
 Golf Channel
 Premier Sports Rugby
