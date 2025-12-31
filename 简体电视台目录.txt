@@ -1,6 +1,6 @@
-mbc max
-mbc 2
 MBC Action
+MBC Max
+MBC 2
 Dubai One
 亚洲卫视
 第一财经
