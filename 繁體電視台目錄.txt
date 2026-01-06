@@ -1734,6 +1734,7 @@ Astro Arena 2
 Arena Bola
 Arena Bola 2
 Astro Sports UHD 805
+Astro Sports Plus 2
 Astro Grandstand
 Astro Premier League
 Astro Premier League 2
@@ -1747,6 +1748,7 @@ Astro Premier League 5
 W-Sport
 Astro Golf
 Premier Sports Rugby
+Astro Cricket Plus
 HITZ FM
 MY FM
 LITE FM
