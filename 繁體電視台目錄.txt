@@ -2,6 +2,7 @@ mbc action
 mbc max
 mbc 2
 Dubai One
+KBS World
 亞洲衛視
 第一財經
 東方財經
