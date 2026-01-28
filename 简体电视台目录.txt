@@ -29,7 +29,6 @@ KBS World
 中国教育-2
 家庭理财
 HOY 国际财经台
-HOY TV
 HOY 资讯台
 HOY体育台
 阿联酋职业足球联赛 - 阿吉曼会 对 杜拜艾阿里 (晚上9:10)
@@ -1748,6 +1747,7 @@ Astro Arena 2
 Arena Bola
 Arena Bola 2
 Astro Sports UHD 805
+Astro Sports Plus 2
 Astro Grandstand
 Astro Premier League
 Astro Premier League 2
