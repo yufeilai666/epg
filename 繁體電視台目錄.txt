@@ -1841,7 +1841,6 @@ Astro Arena 2
 Arena Bola
 Arena Bola 2
 Astro Sports UHD 805
-Astro Sports Plus 2
 Astro Grandstand
 Astro Premier League
 Astro Premier League 2
@@ -2055,6 +2054,9 @@ BBC Lifestyle
 Asian Food Network
 Colors
 STAR Plus
+5536
+Suria
+5006
 inspirasi
 sensasi
 degup
