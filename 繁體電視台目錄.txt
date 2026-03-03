@@ -1857,10 +1857,12 @@ mio Sports
 6115
 6114
 5260
+5258
 Sony Entertainment
 5534
 5535
 Zee Cinema
+5536
 iChannel
 Vasantham
 Hi TV
@@ -1868,14 +1870,17 @@ Formosa TV
 Sky News
 HITS Movies
 Star Maa
+5155
 6123
 LaLiga Sports TV
 4102
 6116
 WION
+ET Today
 Food Network
 Investigation Discovery
 4103
+5555
 Times Now
 4104
 4105
@@ -1909,6 +1914,7 @@ mio Sports 3
 Discovery Channel
 Cartoonito
 Zhejiang Satellite
+5622
 Dragon TV
 Colors Tamil
 5228
@@ -1924,6 +1930,7 @@ Ch U
 5511
 5512
 tvN Asia
+Zee Tamil
 5118
 DramaFirst
 HGTV
