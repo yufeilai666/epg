@@ -399,11 +399,11 @@ SUPER FREE (免费)
 SUPER奖门人 (免费)
 观众票选-追剧马拉松 (免费)
 SUPER识食 (免费)
-SUPER识叹 (免费)(5月4日6时起改为SUPER FUN (免费))
+SUPER FUN (免费)
 SUPER Music (免费)
-SUPER金曲 (免费) (5月4日6时起改为SUPER惊 (免费))
+SUPER惊 (免费)
 SUPER煲剧 (免费)
-SUPER单元剧 (免费) (5月4日6时起改为SUPER亚视剧 (免费))
+SUPER亚视剧 (免费)
 真情SUPER煲 (免费)
 SUPER Sports (免费)
 myTV SUPER 18台
@@ -1616,9 +1616,7 @@ SiCAR爱车酷
 睛彩青少
 睛彩广场舞
 广州南国都市4K
-BBC First HD
 Smithsonian Channel
-BBC Brit HD
 TV1 HD
 TV2 HD
 TV3
@@ -1628,6 +1626,7 @@ Astro Oasis
 Astro Citra
 Astro Rania
 Astro Aura
+Al-Hijrah
 Colors Hindi HD
 Z Cinema HD
 TV Sarawak
@@ -1709,6 +1708,7 @@ Astro Sports UHD 805
 Astro Grandstand
 Astro Premier League
 Astro Premier League 2
+Astro Premier League 3
 Astro Football
 Astro Badminton
 Astro Badminton 2
