@@ -821,6 +821,7 @@ CCTV6 電影頻道
 山東農科
 山東文旅
 山東少兒
+奧林匹克官網直播
 澳視澳門
 澳門葡萄牙
 澳門資訊
@@ -1305,7 +1306,7 @@ TVBS食尚玩家
 經典劇場
 短劇馬拉松
 Yes娛樂
-Focus風采戲劇臺
+Focus風採戲劇臺
 掏掏新聞
 國際大小事
 第1財經
@@ -1617,94 +1618,85 @@ CDTV6
 山西社會與法治
 山西文體生活
 吉視生活
-Smithsonian Channel
-TV1 HD
-TV2 HD
-TV3
-Astro Ria
-Astro Prima
-Astro Oasis
-Astro Citra
-Astro Rania
-Astro Aura
-Al-Hijrah
-Colors Hindi HD
-Z Cinema HD
-TV Sarawak
-TV Okey HD
-NTV7
-8TV
-TV9
-Astro Vaanavil
-Astro Vinmeen
-Astro Vellithirai HD
-SUN TV HD
-Sun Music HD
-Adithya
+TV1
+TV2
+RIA
+PRIMA
+OASIS
+CITRA
+RANIA
+AURA
+TV ALHIJRAH
+Zee Cinema
+TVS
+TV OKEY
+VAANAVIL
+VINMEEN
+SUN TV
+SUN MUSIC
+ADITHYA
 Sun News
 KTV
 Sun Life
-Star Vijay HD
-Colors Tamil HD
-Z Tamil HD
-Astro Thangathirai
-iQIYI HD
-TVB Classic HD
-Astro AEC
-Astro QJ
-Celestial Movies HD
-TVB Jade
-Astro AOD
-CTI Asia HD
-TVB Entertainment News HD
-TVB Xing He HD
-TVBS Asia HD
-Celestial Classic Movies
-Phoenix Chinese Channel HD
-Phoenix Info News HD
-Astro Hua Hee Dai
-CCTV4 HD
-K-Plus HD
-HITS MOVIES HD
-Astro Boo
+STAR VIJAY
+COLORS TAMIL
+ZEE TAMIL
+THANGATHIRAI
+iQIYI
+TVB CLASSIC
+AEC
+QJ
+CELESTIAL
+TVBJ
+AOD
+CTI ASIA
+TVB E-NEWS
+TVB XING HE
+TVBS ASIA
+CCM
+PHOENIX
+PHOENIX NEWS
+HUA HEE DAI
+CCTV4
+KBSW
+ONE
+KPLUS
+HITS MOVIES
+BOO
 Astro Showtime
 Astro FAM Time
-Astro Showcase
+SHOWCASE
 Rock Action
 Rock X Stream
-tvN Movies HD
-Astro First HD
-Astro Awani HD
+tvN Movies
+AWANI
 Bernama TV
-CGTN HD
-Al Jazeera English HD
-CNA HD
-CNBC Asia HD
-Bloomberg TV HD
-ABC Australia HD
-DW English
-France24
-Discovery Channel HD
+AL JAZEERA
+CNBC
+BLOOMBERG  TV
+ABC AUSTRALIA
+FRANCE24
+DISCOVERY
+DISCOVERY ASIA
 BBC Earth
-History HD
+HISTORY
 CGTN Documentary
-Astro Tutor TV
-Astro Ceria
-Cartoon Network HD
-Nickelodeon HD
-Nick Jr.
-Moonbug
+TUTOR TV
+CERIA
+CARTOON NTWK
+NICKELODEON
+NICK JR
+Moonbug Kids
 Blippi & Friends
 HITS NOW
-TLC HD
-Asian Food Network HD
-Crime & Investigation HD
-HGTV HD
-Astro Arena
-Astro Arena 2
-Arena Bola
-Arena Bola 2
-Astro Sports UHD 805
+TLC
+AFN
+CI
+HGTV
+ARENA
+ARENA 2
+ARENA BOLA
+ARENA BOLA 2
 Astro Grandstand
 Astro Premier League
 Astro Premier League 2
@@ -1712,28 +1704,12 @@ Astro Football
 Astro Badminton
 Astro Sports Plus
 Astro Tennis
+beIN SPORTS
+bEIN SPORTS 3
 W-Sport
-Astro Golf
-CricBuzz
-HITZ FM
-MY FM
-LITE FM
-MIX FM
-ERA FM
-SINAR FM
-MELODY FM
-THR RAAGA
-CLASSIC ROCK
-GOLD
-OPUS
-THR GEGAR
-INDIA BEAT
-JAZZ
-OSAI
-BAYU
-KENYALANG
-ZAYAN
-GOXUAN
+GOLF CHANNEL
+Cricbuzz
+GOLF PLUS
 ABC Australia
 Al Jazeera English
 Al Quran Al Kareem
@@ -1748,15 +1724,14 @@ beIN Sports 3 HD
 BTV
 BUDDY STARS
 BUDDY STARS HD
-CCM
 Celebrities TV
 Celestial Movies
 CINEEDGE
 CINEEDGE HD
-CNBC
 Crime Investigation
 Dreamworks
 Dreamworks HD
+DW English
 Entertainment
 EURONEWS
 Fight Sports
@@ -1769,7 +1744,7 @@ Galaxy Premium
 GTV
 GTV HD
 Hanacaraka TV
-HITS MOVIES
+HITS MOVIES HD
 IDX
 IDX HD
 IMC
@@ -1786,13 +1761,13 @@ MDTV
 Metro TV
 MNCTV
 MNCTV HD
+Moonbug
 Music TV
 Music TV HD
 Muslim TV
 NHK World
 Nick Jr. HD
 Nickelodeon Jr
-ONE
 ORIGINALS
 ORIGINALS HD
 Outdoor channel HD
@@ -1824,7 +1799,7 @@ Superrix HD
 Tawaf TV
 Trans 7
 Trans TV
-tvN Movies
+tvN Movies HD
 tvOne
 TVRI
 UNIQUES
